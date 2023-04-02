@@ -1,0 +1,14 @@
+-------posts---------
+rregullimi i fotografive []
+rregullimi i dates []
+validimi i fotografive []
+-------users----------
+rregullimi i foto []
+is_admin []
+--------------------
+signin[]
+register[]
+-----------------------
+homepage[]
+------------------------
+errors[]
